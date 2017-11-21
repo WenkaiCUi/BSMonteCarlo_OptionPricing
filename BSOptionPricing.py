@@ -1,9 +1,4 @@
-# Name: Wenkai Cui
-# Email: wkcui@bu.edu
-# a8task1.py. - Assignment 8, Task 1
-#
-# Task1 : Black-Scholes option pricing
-#1
+
 import math
 from scipy.stats import norm
 
