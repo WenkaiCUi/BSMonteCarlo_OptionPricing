@@ -1,1 +1,1 @@
-# Python-for-MF
+# Black Scholes option pricing using either analytical solution or MC simulation
